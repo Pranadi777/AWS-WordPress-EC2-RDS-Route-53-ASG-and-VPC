@@ -1,6 +1,6 @@
 # WordPress Website Hosted on AWS (EC2, RDS, Route 53, ASG, and VPC)
 
-![architecture](AWS_architecture.png){:height="25%" width="25%"}
+![architecture](AWS_architecture.png){:height="500px"}
 
 This repository contains resources and scripts used to deploy a WordPress website on Amazon Web Services (AWS). The project leverages various AWS services to ensure high availability, scalability, and security for the WordPress application.
 
